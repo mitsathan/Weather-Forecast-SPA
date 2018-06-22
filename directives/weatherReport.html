@@ -1,0 +1,10 @@
+<div class="panel panel-default" ng-if="k=='main'||k=='dt'">
+    <div class="panel-heading" ng-if="k=='dt'">
+        <h3 class="panel-title">{{convertToDate({dt:v})|date:dateFormat}}</h3>
+    </div>
+    <div class="panel-body" ng-if="k=='main'">
+        <ul>
+            <li ng-repeat="(key,vals) in v">{{key}}: {{ key=='temp'||key=='temp_max'||key=='temp_min'?convertToStandard({deg:val}):val }}</li>
+        </ul>
+    </div>
+</div>

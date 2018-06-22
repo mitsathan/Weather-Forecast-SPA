@@ -1,0 +1,487 @@
+[
+  {
+    "id": 707860,
+    "name": "Hurzuf",
+    "country": "UA"
+  },
+  {
+    "id": 519188,
+    "name": "Novinki",
+    "country": "RU"
+  },
+  {
+    "id": 1283378,
+    "name": "Gorkhā",
+    "country": "NP"
+  },
+  {
+    "id": 1270260,
+    "name": "State of Haryāna",
+    "country": "IN"
+  },
+  {
+    "id": 708546,
+    "name": "Holubynka",
+    "country": "UA"
+  },
+  {
+    "id": 1283710,
+    "name": "Bāgmatī Zone",
+    "country": "NP"
+  },
+  {
+    "id": 529334,
+    "name": "Mar’ina Roshcha",
+    "country": "RU"
+  },
+  {
+    "id": 1269750,
+    "name": "Republic of India",
+    "country": "IN"
+  },
+  {
+    "id": 1283240,
+    "name": "Kathmandu",
+    "country": "NP"
+  },
+  {
+    "id": 703363,
+    "name": "Laspi",
+    "country": "UA"
+  },
+  {
+    "id": 3632308,
+    "name": "Merida",
+    "country": "VE"
+  },
+  {
+    "id": 473537,
+    "name": "Vinogradovo",
+    "country": "RU"
+  },
+  {
+    "id": 384848,
+    "name": "Qarah Gawl al ‘Ulyā",
+    "country": "IQ"
+  },
+  {
+    "id": 569143,
+    "name": "Cherkizovo",
+    "country": "RU"
+  },
+  {
+    "id": 713514,
+    "name": "Alupka",
+    "country": "UA"
+  },
+  {
+    "id": 2878044,
+    "name": "Lichtenrade",
+    "country": "DE"
+  },
+  {
+    "id": 464176,
+    "name": "Zavety Il’icha",
+    "country": "RU"
+  },
+  {
+    "id": 295582,
+    "name": "‘Azriqam",
+    "country": "IL"
+  },
+  {
+    "id": 1271231,
+    "name": "Ghūra",
+    "country": "IN"
+  },
+  {
+    "id": 690856,
+    "name": "Tyuzler",
+    "country": "UA"
+  },
+  {
+    "id": 464737,
+    "name": "Zaponor’ye",
+    "country": "RU"
+  },
+  {
+    "id": 707716,
+    "name": "Il’ichëvka",
+    "country": "UA"
+  },
+  {
+    "id": 697959,
+    "name": "Partyzans’ke",
+    "country": "UA"
+  },
+  {
+    "id": 803611,
+    "name": "Yurevichi",
+    "country": "RU"
+  },
+  {
+    "id": 614371,
+    "name": "Gumist’a",
+    "country": "GE"
+  },
+  {
+    "id": 874560,
+    "name": "Ptitsefabrika",
+    "country": "GE"
+  },
+  {
+    "id": 874652,
+    "name": "Orekhovo",
+    "country": "GE"
+  },
+  {
+    "id": 2347078,
+    "name": "Birim",
+    "country": "NG"
+  },
+  {
+    "id": 2051302,
+    "name": "Priiskovyy",
+    "country": "RU"
+  },
+  {
+    "id": 563692,
+    "name": "Dzhaga",
+    "country": "RU"
+  },
+  {
+    "id": 481725,
+    "name": "Tret’ya Rota",
+    "country": "RU"
+  },
+  {
+    "id": 2638976,
+    "name": "Ruislip",
+    "country": "GB"
+  },
+  {
+    "id": 2892705,
+    "name": "Karow",
+    "country": "DE"
+  },
+  {
+    "id": 2922336,
+    "name": "Gatow",
+    "country": "DE"
+  },
+  {
+    "id": 975511,
+    "name": "Mkuze",
+    "country": "ZA"
+  },
+  {
+    "id": 1280737,
+    "name": "Lhasa",
+    "country": "CN"
+  },
+  {
+    "id": 745042,
+    "name": "İstanbul",
+    "country": "TR"
+  },
+  {
+    "id": 3496831,
+    "name": "Mao",
+    "country": "DO"
+  },
+  {
+    "id": 2017370,
+    "name": "Russian Federation",
+    "country": "RU"
+  },
+  {
+    "id": 2045761,
+    "name": "De-Friz",
+    "country": "RU"
+  },
+  {
+    "id": 1257986,
+    "name": "Rumbak",
+    "country": "IN"
+  },
+  {
+    "id": 476350,
+    "name": "Vavibet",
+    "country": "RU"
+  },
+  {
+    "id": 1343000,
+    "name": "Surtagān Chib",
+    "country": "PK"
+  },
+  {
+    "id": 456169,
+    "name": "Rīgas Rajons",
+    "country": "LV"
+  },
+  {
+    "id": 475279,
+    "name": "Verkhneye Shchekotikhino",
+    "country": "RU"
+  },
+  {
+    "id": 711349,
+    "name": "Bucha",
+    "country": "UA"
+  },
+  {
+    "id": 798544,
+    "name": "Republic of Poland",
+    "country": "PL"
+  },
+  {
+    "id": 3094325,
+    "name": "Kuchary",
+    "country": "PL"
+  },
+  {
+    "id": 6255149,
+    "name": "North America",
+    "country": ""
+  },
+  {
+    "id": 3575514,
+    "name": "Brumaire",
+    "country": "KN"
+  },
+  {
+    "id": 1861387,
+    "name": "Ishikawa-ken",
+    "country": "JP"
+  },
+  {
+    "id": 1857578,
+    "name": "Matoba",
+    "country": "JP"
+  },
+  {
+    "id": 1299298,
+    "name": "Pya",
+    "country": "MM"
+  },
+  {
+    "id": 3256023,
+    "name": "Kalanac",
+    "country": "BA"
+  },
+  {
+    "id": 2921044,
+    "name": "Federal Republic of Germany",
+    "country": "DE"
+  },
+  {
+    "id": 2861876,
+    "name": "Land Nordrhein-Westfalen",
+    "country": "DE"
+  },
+  {
+    "id": 802899,
+    "name": "Mutaykutan",
+    "country": "RU"
+  },
+  {
+    "id": 523523,
+    "name": "Nalchik",
+    "country": "RU"
+  },
+  {
+    "id": 546448,
+    "name": "Kolganov",
+    "country": "RU"
+  },
+  {
+    "id": 500023,
+    "name": "Rybatskiy",
+    "country": "RU"
+  },
+  {
+    "id": 2207349,
+    "name": "Bellara",
+    "country": "AU"
+  },
+  {
+    "id": 7870412,
+    "name": "Bartlett",
+    "country": "ZA"
+  },
+  {
+    "id": 961935,
+    "name": "Rietfontein",
+    "country": "ZA"
+  },
+  {
+    "id": 3371200,
+    "name": "Hardap",
+    "country": "NA"
+  },
+  {
+    "id": 1016666,
+    "name": "Botswana",
+    "country": "ZA"
+  },
+  {
+    "id": 3858204,
+    "name": "El Destierro",
+    "country": "AR"
+  },
+  {
+    "id": 4070245,
+    "name": "Jones Crossroads",
+    "country": "US"
+  },
+  {
+    "id": 4344544,
+    "name": "Vernon Parish",
+    "country": "US"
+  },
+  {
+    "id": 4215307,
+    "name": "Pennick",
+    "country": "US"
+  },
+  {
+    "id": 5285039,
+    "name": "Black Bear Spring",
+    "country": "US"
+  },
+  {
+    "id": 4673179,
+    "name": "Bee House",
+    "country": "US"
+  },
+  {
+    "id": 6078447,
+    "name": "Morden",
+    "country": "CA"
+  },
+  {
+    "id": 2201316,
+    "name": "Nasirotu",
+    "country": "FJ"
+  },
+  {
+    "id": 1938756,
+    "name": "Sisali",
+    "country": "ID"
+  },
+  {
+    "id": 2009359,
+    "name": "Puntan",
+    "country": "ID"
+  },
+  {
+    "id": 2566086,
+    "name": "Tsiémé-Mandiélé",
+    "country": "CG"
+  },
+  {
+    "id": 154733,
+    "name": "Masama",
+    "country": "TZ"
+  },
+  {
+    "id": 1630349,
+    "name": "Purukcahu",
+    "country": "ID"
+  },
+  {
+    "id": 2224928,
+    "name": "Néméyong II",
+    "country": "CM"
+  },
+  {
+    "id": 6716279,
+    "name": "Pondok Genteng",
+    "country": "ID"
+  },
+  {
+    "id": 2384618,
+    "name": "Mbongoté",
+    "country": "CF"
+  },
+  {
+    "id": 378867,
+    "name": "Amiling",
+    "country": "SS"
+  },
+  {
+    "id": 2230362,
+    "name": "Kélkoto",
+    "country": "CM"
+  },
+  {
+    "id": 343846,
+    "name": "Angetu",
+    "country": "ET"
+  },
+  {
+    "id": 370366,
+    "name": "Massa",
+    "country": "SD"
+  },
+  {
+    "id": 365618,
+    "name": "Tumko",
+    "country": "SD"
+  },
+  {
+    "id": 524894,
+    "name": "Moskva",
+    "country": "RU"
+  },
+  {
+    "id": 1861060,
+    "name": "Japan",
+    "country": "JP"
+  },
+  {
+    "id": 2130037,
+    "name": "Hokkaidō",
+    "country": "JP"
+  },
+  {
+    "id": 6199126,
+    "name": "Sanggrahan",
+    "country": "ID"
+  },
+  {
+    "id": 6388445,
+    "name": "Karangmangle",
+    "country": "ID"
+  },
+  {
+    "id": 494806,
+    "name": "Sheremetyevskiy",
+    "country": "RU"
+  },
+  {
+    "id": 467104,
+    "name": "Yershovo",
+    "country": "RU"
+  },
+  {
+    "id": 462352,
+    "name": "Znamenka",
+    "country": "RU"
+  },
+  {
+    "id": 2267057,
+    "name": "Lisbon",
+    "country": "PT"
+  },
+  {
+    "id": 3082707,
+    "name": "Walbrzych",
+    "country": "PL"
+  },
+  {
+    "id": 3091150,
+    "name": "Naklo nad Notecia",
+    "country": "PL"
+  }
+]

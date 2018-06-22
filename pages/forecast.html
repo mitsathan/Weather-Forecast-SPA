@@ -1,0 +1,23 @@
+Cities : <a href="#/forecast/Athens,GR" ng-class="{'bg-primary':city=='Athens,GR'}">Athens,GR</a> | <a href="#/forecast/Athens,US" ng-class="{'bg-primary':city=='Athens,US'}">Athens,US</a>
+
+<br> Forecast for {{ city }}
+
+<div ng-repeat="w in weatherResult">
+    <div class="row">
+        <div class="col-md-12">
+
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title">{{w.name}},{{w.sys.country}} {{convertToDate(w.dt)|date:'yyyy-MM-dd HH:mm:ss'}}</h3>
+                </div>
+                <div class="panel-body">
+                    <ul>
+                        <li ng-repeat="(key,val) in w.main">{{key}}: {{ key=='temp'|| key=='temp_max'|| key=='temp_min'?convertToCelsius(val):val }}</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!--            <weather-report k="key" v="val" convert-to-standard="convertToCelsius(deg)" convert-to-date="convertToDate(dt)" date-format="YYYY-MM-DD HH:mm:ss"></weather-report>-->
+        </div>
+    </div>
+</div>
